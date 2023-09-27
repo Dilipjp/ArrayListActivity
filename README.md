@@ -1,2 +1,0 @@
-# ArrayListActivity
-ArrayList_Activity
